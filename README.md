@@ -1,1 +1,1 @@
-Please see Wiki for all specifications!
+I added a debug log to see the applied forces and torques in the Unity console.
